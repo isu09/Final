@@ -1,0 +1,7 @@
+customhost = "rdsemployee.cvklvbhbc01l.us-east-2.rds.amazonaws.com"
+customuser = "admin"
+custompass = "password"
+customdb = "rdsemployee"
+custombucket = "s3myemployee"
+customregion = "us-east-2"
+customtable = "employee"
